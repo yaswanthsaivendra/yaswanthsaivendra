@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity domain
 - 🌱 I’m currently learning application & network pentesting, exploit development, web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/yaswanthvendra/
 
 <!---
 yaswanthsaivendra/yaswanthsaivendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
