@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaswanthsaivendra
 - 👀 I’m interested in cybersecurity domain
-- 🌱 I’m currently learning application & network pentesting, exploit development, web development
+- 🌱 I’m currently learning application & network pentesting, web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/yaswanthvendra/
 
