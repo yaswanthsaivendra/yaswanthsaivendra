@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://discordapp.com/users/yashiee#7688/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="yashiee#7688"/></a>
  <a href="https://www.linkedin.com/in/yaswanthvendra/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yaswanthvendra"/></a> 
-<a href="https://twitter.com/yaswanth_vendra" target="blank"><img align="center" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="yaswanth_vendra" /></a>
+<a href="https://twitter.com/yaswanth_vendra" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="yaswanth_vendra" /></a>
 </p>
 
 <hr>
