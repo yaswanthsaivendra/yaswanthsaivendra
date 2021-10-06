@@ -33,7 +33,7 @@
 
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswanthsaivendra&show_icons=true&count_private=true&theme=react" />
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yaswanthsaivendra&theme=react" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats-sai.herokuapp.com?user=yaswanthsaivendra&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
 
 
 <hr>
